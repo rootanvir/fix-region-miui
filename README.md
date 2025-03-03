@@ -1,5 +1,5 @@
 # fix-region-miui
-### 1 check [contry iso code ]("https://en.m.wikipedia.org/wiki/List_of_ISO_3166_country_codes")
+### 1 check [contry iso code ](https://en.m.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
 ### 2. Try Any one of then
 - #### download the [MIUI_region_fix.zip](https://github.com/user-attachments/files/19057827/MIUI_region_fix.zip) then flash it
 - #### Downlaod [BuildProp Editor_2.5.1(23410)_APKPure.zip](https://github.com/user-attachments/files/19057893/BuildProp.Editor_2.5.1.23410._APKPure.zip)
